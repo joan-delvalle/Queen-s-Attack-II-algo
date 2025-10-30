@@ -1,1 +1,1 @@
-# Queen-s-Attack-II-algo
+# Queen-s-Attack-II-algo It calculates how many squares a queen can attack on an n × n chessboard, considering the positions of obstacles that block her moves. The function queensAttack (currently empty) will contain the logic to count all reachable squares in eight directions — up, down, left, right, and the four diagonals — until the queen hits an obstacle or the board’s edge.
